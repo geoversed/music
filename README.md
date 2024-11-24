@@ -1,2 +1,2 @@
-# music
-Music bot compatible with all music platforms
+# Music
+Music bot written in C++ or Rust compatible with all music platforms.
